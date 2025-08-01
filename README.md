@@ -1,6 +1,6 @@
 # User Review Management Console Application
 
-A simple terminal-based application for interacting with a user-review SQL database, featuring custom search functionality, social connection management, and review submission. Designed with a focus on usability, input validation, and flexible query options. Primary utilizes custom SQL queries for database interactions and modifications.
+A simple Python terminal-based application for interacting with a user-review SQL database, featuring custom search functionality, social connection management, and review submission. Designed with a focus on usability, input validation, and flexible query options. Primary utilizes custom SQL queries for database interactions and modifications.
 
 ## Features:
 - User Authentication
