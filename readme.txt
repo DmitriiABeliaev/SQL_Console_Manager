@@ -1,4 +1,4 @@
-Dmitrii Beliaev SFU ID:301435234
+Dmitrii Beliaev
 
 libraries used:
 pyodbc, random, string
